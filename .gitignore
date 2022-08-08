@@ -1,0 +1,6 @@
+/.vscode
+/src/Calcualtor/bin
+/src/Calcualtor/obj
+/test/Calculator.Tests/bin
+/test/Calculator.Tests/obj
+
